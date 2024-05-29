@@ -1,4 +1,4 @@
-<h1>FdSc Digial Games Technologies</h1>
+<h1>FdSc Digital Games Technologies</h1>
 
 <h2>Certificate:</h2>
 
